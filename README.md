@@ -4,5 +4,6 @@
 ## Offer
 [![Predlozenija](https://github.com/DmitrijevK/DmitrijevK/blob/main/a25a80.png)](https://vk.com/kirikdm)
  
-## Blog
-[![](https://icons.veryicon.com/png/Internet%20%26%20Web/Classic%203D%20Social/wordpress.png)](https://kirillink.wordpress.com)
+## My Social
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram)](https://www.instagram.com/kirill_dm15/)
+[![VK](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Vk)](https://vk.com/kirikdm)
