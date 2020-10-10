@@ -8,7 +8,7 @@
  
  # Languge & Tools
  📫 Languge:
-
+![c#](https://img.shields.io/badge/<C#>-<090909-Black)
  🌱 Tools:
 	
 -->
