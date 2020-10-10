@@ -8,9 +8,7 @@
  
  # Languge & Tools
  📫 Languge:
-![c#](https://img.shields.io/badge/-c#-<COLOR>)
-![Xamarin](https://img.shields.io/badge/-Flutter-<COLOR>)
+
  🌱 Tools:
- ![Visual Studio](https://img.shields.io/badge/-Flutter-<COLOR>)
 	
 -->
