@@ -4,3 +4,5 @@
 ## Offer
 [![Predlozenija](https://github.com/DmitrijevK/DmitrijevK/blob/main/a25a80.png)](https://vk.com/kirikdm)
  
+### blog
+[![](https://cdn3.iconfinder.com/data/icons/flat-icons-web/40/WordPress-512.png)](https://kirillink.wordpress.com)
