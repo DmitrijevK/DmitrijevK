@@ -1,4 +1,4 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DmitrijevK&count_private=true&show_icons=true&theme=dracula)
 # Links
 ## Payment
 [![Payment](https://github.com/DmitrijevK/DmitrijevK/blob/main/5a69a2.png)](https://www.paypal.com/pools/c/8tkyjM2IPp?_ga=2.132256462.1115608334.1602353428-846535792.1602353428)
