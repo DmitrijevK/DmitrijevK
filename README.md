@@ -10,4 +10,3 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram)](https://www.instagram.com/kirill_dm15/)
 [![VK](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=Vk)](https://vk.com/kirikdm)
 
-<iframe src="https://discord.com/widget?id=826442223196569630&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
